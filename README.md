@@ -104,5 +104,7 @@ Thanks for book!
 
 Captain BAB: Make it so!
 
+Vitaly: Useful book!
+
 Gaurav : Testing
 ---
